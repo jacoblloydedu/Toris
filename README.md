@@ -7,7 +7,7 @@ Updates the to-do list platform into a format that can be used for personal or p
 
 <details> <summary><h2>Platform</h2></summary>
 
-  The current platform being created and updated will be Android-based using the Nougat (7.1.1) API 25.
+  The current platform being created and updated will be Android-based using the Nougat (7.1.1) API 25. It is currently set out to be a native app.
 </details>
   <details> <summary><h2>Front/Back End Support</h2></summary>
   
@@ -23,13 +23,16 @@ Updates the to-do list platform into a format that can be used for personal or p
 ### Ties
   
 >   Smaller goals for each day-by-day operation that works your way to the end result overtime.
-
+_________________
   </details>
   
   <details> <summary><b>Keeping up with time </b></summary>
     Allows scheduling functionality to where a task must be done at a certain time or date. </details>
+
   <details> <summary><b>Reminding when necessary</b></summary>
-    Recieve notifications about current status in tasks, lists of tasks to come, and much more. </details>
+    Recieve notifications about current status in tasks, lists of tasks to come, and much more. 
+
+  </details>
 </details>
   
   <details> <summary><h2>Design</h2></summary>
