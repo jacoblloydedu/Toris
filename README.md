@@ -12,7 +12,7 @@ Updates the to-do list platform into a format that can be used for personal or p
   <details> <summary><h2>Front/Back End Support</h2></summary>
 </details>
     <details> <summary><h2>Highlighted Functionality</h2></summary>
-  <details> <summary>Setting goals how they should be ☑️</summary>
+  <details> <summary><b>Setting goals how they should be ☑️</b></summary>
     Ability to create major tasks called Goals and minor goals within these major tasks called Ties.
 
   ### Goals
@@ -24,9 +24,10 @@ Updates the to-do list platform into a format that can be used for personal or p
 >   Smaller goals for each day-by-day operation that works your way to the end result overtime
 
   </details>
-  <details> <summary>Keeping up with time ⏰</summary>
+  
+  <details> <summary><b>Keeping up with time ⏰</b></summary>
     Allows scheduling functionality to where a task must be done at a certain time or date. </details>
-  <details> <summary>Reminding when necessary 🔔</summary>
+  <details> <summary><b>Reminding when necessary 🔔</b></summary>
     Recieve notifications about current status in tasks, lists of tasks to come, and much more. </details>
 </details>
   
