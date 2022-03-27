@@ -3,14 +3,20 @@ A modernized to-do android application that organizes long-term goals into prese
 
 # Take A Look!
 <details> <summary><h2>What Problems Does Toris Address?</h2></summary>
-Updates the to-do list platform into a format that can be used for personal or professional reasons by breaking down large goals into smaller attainable ones while also bringing portable task functionality to the workplace. </details>
+Updates the to-do list platform into a format that can be used for personal or professional reasons by breaking down large goals into smaller attainable ones while also bringing portable task list functionality to the workplace. </details>
 
 <details> <summary><h2>Platform</h2></summary>
 
-  The current platform being created and updated will be Android-based using the Nougat (7.1.1) API 25. It is currently set out to be a native app.
+  The current platform being created and updated will be Android-based using the Nougat (7.1.1) API 25. It is currently set out to be a hybrid app.
 </details>
   <details> <summary><h2>Front/Back End Support</h2></summary>
+  Front End Development
+
+  > Will utilize ReactJS for support in front-end development.
   
+  Back End Development
+
+  > Will utilize NodeJS for suypport in back-end development.
 </details>
     <details> <summary><h2>Highlighted Functionality</h2></summary>
   <details> <summary><b>Setting goals how they should be</b></summary>
@@ -36,7 +42,7 @@ _________________
 </details>
   
   <details> <summary><h2>Design</h2></summary>
-<img src="https://user-images.githubusercontent.com/101727775/160260627-835c205f-22b2-403d-9785-51e0d096fd2e.png">
+
 
 The design will revolve around a dashboard-like design with current tasks, the time/date, and settings. You will also be able to adjust priority of tasks (which shows on the dashboard), create new tasks, and edit tasks.
 </details>
