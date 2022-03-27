@@ -42,7 +42,7 @@ _________________
 </details>
   
   <details> <summary><h2>Design</h2></summary>
-<img src="https://user-images.githubusercontent.com/101727775/160264436-bc8d67ce-2600-4940-ac12-e435dc3aa96e.png">
+<img src="https://user-images.githubusercontent.com/101727775/160280295-7ca2ddd1-e293-4257-bad7-f0c0ba0ced04.png">
 
 > The design will revolve around a dashboard-like design with current tasks, the time/date, and settings. You will also be able to adjust priority of tasks (which shows on the dashboard), create new tasks, and edit tasks.
 </details>
