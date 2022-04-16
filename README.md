@@ -7,7 +7,7 @@ A modernized to-do android application that organizes long-term goals into prese
 
 <h2>How Project Will Be Created</h2>
 
-> Project will be created by using Android Studio and Android SDK. There will also utlization of ReactJS and NodeJS for the front-end and back-end support. 
+> Project will be created by using Android Studio and Android SDK. There will also utlization of XML/Java for the front-end  development and a writable database for back-end support. 
 
 <h2>How To Use</h2>
 
