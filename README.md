@@ -1,4 +1,5 @@
-# *Toris*
+# *Toris*![TorisLogo](https://user-images.githubusercontent.com/101727775/163677466-6d9993b6-e4c9-4424-9641-064dd07ff43d.svg)
+
 A modernized to-do android application that organizes long-term goals into presently attainable subgoals.
 
 <h2>What Problems Does Toris Address?</h2>
