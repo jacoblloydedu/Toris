@@ -9,8 +9,13 @@ A modernized to-do android application that organizes long-term goals into prese
 
 > Project will be created by using Android Studio and Android SDK. There will also utlization of XML/Java for the front-end  development and a writable database for back-end support. 
 
+For More Information [Click Here](https://github.com/jacoblloydedu/Toris/wiki)
+
 <h2>How To Use</h2>
 
 > It will be available as an apk file that can be downloaded and installed via AVD or Android device.
 
-For More Information [Click Here](https://github.com/jacoblloydedu/Toris/wiki)
+
+<h2>CHANGELOG</h2>
+
+To View Changes, [Click Here](https://github.com/jacoblloydedu/Toris/wiki/Changelog)
